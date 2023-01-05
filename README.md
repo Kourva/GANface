@@ -15,7 +15,7 @@ pip install tqdm requests
 ```bash
 python3 tpdne.py [length]
 where:
-    length: how many pictures you want
+    length: how many pictures you want [defaults to 1 - or if there is no argument]
 ```
 + example
 ```bash
