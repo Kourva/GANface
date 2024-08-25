@@ -5,7 +5,7 @@ get random faces from thispersondoesnotexist.com and save them with this python 
 # Installation
 + clone
 ```bash
-git clone https://github.com/kozyol/GANface && cd GANface
+git clone https://github.com/Kourva/GANface && cd GANface
 ```
 + requirements
 ```bash
